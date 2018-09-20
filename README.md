@@ -25,6 +25,6 @@ when sending messages are no longer easy, even a single word takes luck and effo
   - webapp client: js 
   - server: rest-api by python
 
-
- * idea & author: Shawn Yang (shawnyang610@gmail.com)
- * all rights reserved
+ ## copyrights
+  * idea & author: Shawn Yang (shawnyang610@gmail.com)
+  * all rights reserved
